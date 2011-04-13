@@ -2,7 +2,7 @@
 /*
 Plugin Name: mobile detection
 Plugin URI: http://code.google.com/p/wordpress-mobile-detection/
-Description: This plugin will serve the specific theme (must be created) to mobile visitors. All rights reserved for mobile browser detection php code to by http://detectmobilebrowser.com
+Description: This plugin will serve the specific theme (that must be created) to mobile browser visitors. Just create a specific mobile theme in wp-content/themes and named it "mobile; upload, activate the plugin and enjoy it.
 Author: Laurentiu Danu
 Author URI: http://www.vividalchemy.com
 Version: 1.0
